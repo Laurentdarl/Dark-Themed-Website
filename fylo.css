@@ -572,7 +572,7 @@ footer .footer-logo {
 }
 
 .social-media {
-  margin: 50px 0 0 37%;
+  margin: 40px 0 0 37%;
   margin-top: 50px;
   display: flex;
 }
@@ -598,7 +598,7 @@ footer .footer-logo {
 .footer-descripn {
   position: relative;
   top: -120px;
-  margin-bottom: -70px;
+  margin-bottom: -80px;
 }
 
 .footer-nav,
@@ -615,7 +615,7 @@ footer .footer-logo {
 }
 
 .attribution {
-  margin-top: -60px;
+  margin-top: -70px;
   font-size: 11px;
   text-align: center;
 }
