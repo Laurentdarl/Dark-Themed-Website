@@ -89,7 +89,7 @@ footer {
   flex-direction: column;
   gap: 35px;
   width: 100%;
-  height: 166vh;
+  height: 160vh;
 }
 
 @media (min-width: 520px) {
@@ -593,6 +593,12 @@ footer .footer-logo {
 
 .tel {
   position: relative;
+}
+
+.footer-descripn {
+  position: relative;
+  top: -120px;
+  margin-bottom: -70px;
 }
 
 .footer-nav,
