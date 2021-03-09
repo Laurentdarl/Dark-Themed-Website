@@ -66,7 +66,7 @@ img {
   justify-content: space-between;
   align-items: center;
   width: 100%;
-  height: 5rem;
+  height: rem;
   background: #1c2431;
 }
 
@@ -167,7 +167,7 @@ footer {
 
 @media (min-width: 520px) {
   .intro-img {
-    height: 173vh;
+    height: 150vh;
   }
   .intro-img img {
     position: absolute;
@@ -175,13 +175,13 @@ footer {
     height: 500px;
     z-index: 1;
     left: 27%;
-    top: 6.93%;
+    top: 5%;
   }
   .intro-cta {
     position: relative;
     margin-top: 450px;
     z-index: 5;
-    top: -1020px;
+    top: -52.5%;
   }
   .intro-cta h2 {
     font-size: 2.5rem;
@@ -234,8 +234,8 @@ footer {
     position: absolute;
     height: 505px;
     width: 1550px;
-    top: 117vh;
-    left: -60px;
+    top: 20.9%;
+    left: -5%;
   }
 }
 
@@ -266,8 +266,8 @@ footer {
     grid-template-columns: repeat(2, 1fr);
     position: relative;
     width: 70%;
-    top: -130vh;
-    left: 17%;
+    top: -135vh;
+    left: 16%;
   }
   .features-list {
     width: 525px;
@@ -330,7 +330,7 @@ hr {
     top: -115vh;
   }
   .productivity .productive-img {
-    margin: 0 0 20px 150px;
+    margin: 0 0px 20px 150px;
   }
   .productivity .productive-img img {
     width: 600px;
@@ -341,7 +341,7 @@ hr {
     right: -70px;
     top: 80px;
     width: 550px;
-    margin-left: 20px;
+    margin: 0 20px;
   }
   .productivity .productive h4 {
     text-align: left;
@@ -412,7 +412,7 @@ hr {
 @media (min-width: 520px) {
   .quotes {
     top: -116vh;
-    left: 13%;
+    left: 12.5%;
     flex-direction: row;
     gap: 45px;
   }
@@ -632,7 +632,7 @@ footer .footer-logo {
     gap: 20px;
     width: 100%;
     height: 500px;
-    margin-bottom: -150vh;
+    margin-bottom: -100%;
   }
   footer .footer-logo {
     position: absolute;
